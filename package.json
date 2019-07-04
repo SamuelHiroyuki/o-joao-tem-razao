@@ -4,7 +4,8 @@
   "description": "O João tem razão",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,13 @@
   "bugs": {
     "url": "https://github.com/SamuelHiroyuki/o-joao-tem-razao/issues"
   },
-  "homepage": "https://github.com/SamuelHiroyuki/o-joao-tem-razao#readme"
+  "homepage": "https://github.com/SamuelHiroyuki/o-joao-tem-razao#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mssql": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
 }
