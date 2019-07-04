@@ -1,0 +1,25 @@
+{
+  "name": "o-joao-tem-razao",
+  "version": "1.0.0",
+  "description": "O João tem razão",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelHiroyuki/o-joao-tem-razao.git"
+  },
+  "keywords": [
+    "o",
+    "joao",
+    "tem",
+    "rezao"
+  ],
+  "author": "Samuel Hiroyyuki\u001b[B\u001b[D\u001b[D\u001b[\u001b[C\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[uki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamuelHiroyuki/o-joao-tem-razao/issues"
+  },
+  "homepage": "https://github.com/SamuelHiroyuki/o-joao-tem-razao#readme"
+}
